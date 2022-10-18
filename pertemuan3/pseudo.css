@@ -1,0 +1,14 @@
+.hello:link{
+  color: darkmagenta;
+}
+.hello:hover{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: yellow;
+}
+.hello:active{
+  font-style: italic;
+}
+.hello:visited{
+  color: green;
+}

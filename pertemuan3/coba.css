@@ -1,0 +1,19 @@
+body{
+  font-family: arial;
+  background-image: url();
+}
+h1{
+  text-align: center;
+  color: lightblue;
+  font-style: oblique;
+}
+p{
+  color: blue;
+  line-height: 1.6em;
+  font-variant: small-caps;
+  font-size: large;
+  font-style: italic;
+  text-decoration: double;
+  text-transform: uppercase;
+  letter-spacing: normal;
+}

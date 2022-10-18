@@ -1,0 +1,13 @@
+#p1{
+  color: yellow;
+}
+
+p{
+  color: mediumblue;
+}
+ul#Sarapan li{
+  color: yellow;
+}
+ul#Sarapan li.favorite{
+  color: red;
+}
