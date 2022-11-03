@@ -1,0 +1,59 @@
+* {
+  font-family: sans-serif;
+}
+
+.header .searchs{
+  font-size: medium;
+  position: absolute;
+width: 1003px;
+height: 301px;
+left: 320px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 0px 0px 80px 0px;
+}
+
+.header .Judul {
+  position: absolute;
+
+  width: 314px;
+  height: 36px;
+  left: 900px;
+  top: 170px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  
+  color: red;
+  
+  border: 5px solid rgba(0, 0, 0, 0.5);
+  }
+.header .oke {
+  position: absolute;
+width: 280px;
+height: 235px;
+right: 1003px
+}
+
+.header .Judul2 {
+  position: absolute;
+  
+width: 455px;
+height: 36px;
+left: 900px;
+top: 220px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+
+border: 5px solid rgba(0, 0, 0, 0.5);
+}
